@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### 3.?.? - 2020-??-??
+
+* Removed `minFilter` and `magFilter` from generated samplers so that runtime engines can use their preferred texture filtering. [#240](https://github.com/CesiumGS/obj2gltf/pull/240)
+
 ### 3.1.0 - 2020-03-13
 
 * Added back `inputUpAxis` and `outputUpAxis`. [#211](https://github.com/CesiumGS/obj2gltf/pull/211)
