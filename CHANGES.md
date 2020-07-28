@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+### 3.?.? - 2020-??-??
+
+* Remove winding order sanitization for triangles. [#236](https://github.com/CesiumGS/obj2gltf/pull/236)
+
 ### 3.1.0 - 2020-03-13
 
 * Added back `inputUpAxis` and `outputUpAxis`. [#211](https://github.com/CesiumGS/obj2gltf/pull/211)
